@@ -1,1 +1,1 @@
-only for program create the temp file
+程序产生的临时文件全部生成在这个目录，防止混乱

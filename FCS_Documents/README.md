@@ -1,1 +1,1 @@
-This folder only pu the Documents
+关于本项目的所有文档，请放于这个目录

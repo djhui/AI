@@ -1,1 +1,1 @@
-Database connector
+数据库连接核心代码，支持的数据库越多越好
